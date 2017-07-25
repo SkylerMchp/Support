@@ -1,0 +1,4 @@
+main£ºhttps://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/log/?qt=grep&q=atmel
+Yocto:https://github.com/linux4sam/meta-atmel
+Linux4sam:https://github.com/linux4sam/linux-at91
+DEMO:ftp://www.at91.com/pub/demo/linux4sam_5.0/
