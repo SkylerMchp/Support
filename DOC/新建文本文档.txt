@@ -1,0 +1,4 @@
+主线： https://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/log/?qt=grep&q=atmel
+Yocto元层： https://github.com/linux4sam/meta-atmel
+Linux4sam： https://github.com/linux4sam/linux-at91
+演示： ftp://www.at91.com/pub/demo/linux4sam_5.0/
