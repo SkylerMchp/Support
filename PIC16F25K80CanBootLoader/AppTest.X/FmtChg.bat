@@ -1,0 +1,1 @@
+a.exe "E:\P25K80CanBoot\AppTest.X" "dist\default\production\AppTest.X.production.bin"
