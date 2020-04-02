@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/A15161/HarmonyFramework/csp/apps/i2c/master/i2c_eeprom/firmware/src/main_pic32mk_gpl_curiosity_pro.c</file>
+            <file>file:/C:/Users/A15161/HarmonyFramework/csp/apps/i2c/master/i2c_eeprom/firmware/src/config/pic32mk_gpl_curiosity_pro/definitions.h</file>
+            <file>file:/C:/Users/A15161/HarmonyFramework/csp/apps/i2c/master/i2c_eeprom/firmware/src/config/pic32mk_gpl_curiosity_pro/peripheral/i2c/plib_i2c4.c</file>
+            <file>file:/C:/Users/A15161/HarmonyFramework/csp/apps/i2c/master/i2c_eeprom/firmware/src/config/pic32mk_gpl_curiosity_pro/peripheral/gpio/plib_gpio.h</file>
+        </group>
+    </open-files>
+</project-private>
