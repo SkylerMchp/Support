@@ -67,9 +67,9 @@ void main(void)
     unsigned char c;
     U1RXR=0;    // RD2 as Uart1 RX --> Pin110
     RPD3R=0x01; // RD3 as Uart1 TX --> Pin111
-    U1STAbits.UTXEN = 1;   // enable transmit pin
-    U1STAbits.URXEN = 1;   // enable receive pin
-    U1BRG           = 0x67;
+    U1STAbits.UTXEN = 1;    // enable transmit pin
+    U1STAbits.URXEN = 1;    // enable receive pin
+    U1BRG           = 0x67; //9600
     U1MODESET       = 0x08;
     U1MODEbits.ON   = 1;   // enable UART
     UART1_puts("\r\nHello, World!\r\nPlease press a key.\r\n");

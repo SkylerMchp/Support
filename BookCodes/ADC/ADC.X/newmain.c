@@ -40,6 +40,14 @@
 #pragma config EJTAGBEN = NORMAL        // EJTAG Boot (Normal EJTAG functionality)
 #pragma config CP = OFF                 // Code Protect (Protection Disabled)
 #include <xc.h>
+
+/*
+ * AN0:位于36PIN
+ * AN1:位于35PIN
+ * AN2:位于34PIN
+ 
+ */
+
 int main(int argc, char** argv) 
 {
 int result[3];
